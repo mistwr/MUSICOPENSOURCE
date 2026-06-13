@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "outputDirectory": "public",
+  "functions": {
+    "api/tracks.js": {
+      "runtime": "nodejs20.x"
+    }
+  }
+}
